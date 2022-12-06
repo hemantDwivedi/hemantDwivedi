@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hemantDwivedi
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
