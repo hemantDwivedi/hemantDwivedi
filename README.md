@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @hemantDwivedi
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Java.
+- 📫 LinkedIn https://www.linkedin.com/in/hemant-k-318155225/
 
 <!---
 hemantDwivedi/hemantDwivedi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
