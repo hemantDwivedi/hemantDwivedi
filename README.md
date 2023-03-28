@@ -3,7 +3,13 @@
 - 🌱 I’m currently learning Java, Spring Boot, API.
 - 📫 [LinkedIn](https://www.linkedin.com/in/hemant-k-318155225/)
 
-![Hemant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hemant&count_private=true&show_icons=true&theme=dark)
+```JAVA
+public static void callMe(){
+     StringBuilder name = new StringBuilder();
+     name.append("Hemant");
+     System.out.println(name);
+  }
+```
 
 <!---
 hemantDwivedi/hemantDwivedi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
