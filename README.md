@@ -1,7 +1,15 @@
-# 👋 Hi, I’m Hemant Dwivedi
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java, Spring Boot, API.
-- 📫 [LinkedIn](https://www.linkedin.com/in/hemant-k-318155225/)
+
+# Hi, I'm Hemant! 👋
+
+
+
+👩‍💻 I'm currently student at __[WCTM](https://www.wctmgurgaon.com/)__
+
+🧠 I'm currently learning Java, Spring Framework, and Databases.
+
+👯‍♀️ I'm looking to collaborate on Github
+
+😄 Pronouns He/Him
 
 ```JAVA
 public static void callMe(){
@@ -11,7 +19,6 @@ public static void callMe(){
   }
 ```
 
-<!---
-hemantDwivedi/hemantDwivedi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 🛠 Skills
+[![My Skills](https://skillicons.dev/icons?i=java,git,bash,mysql,postgres,postman,maven,html,bootstrap,idea,vscode,vim,tailwind,spring,powershell&perline=8)](https://skillicons.dev)
