@@ -21,4 +21,4 @@ public static void callMe(){
 
 
 ## 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=java,git,bash,mysql,postgres,postman,maven,html,bootstrap,idea,vscode,vim,tailwind,spring,powershell&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,git,bash,mysql,postgres,postman,maven,html,bootstrap,idea,vscode,vim,tailwind,spring,powershell&perline=15)](https://skillicons.dev)
