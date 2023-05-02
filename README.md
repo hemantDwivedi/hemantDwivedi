@@ -12,11 +12,13 @@
 😄 Pronouns He/Him
 
 ```JAVA
-public static void callMe(){
-     StringBuilder name = new StringBuilder();
-     name.append("Hemant");
-     System.out.println(name);
-  }
+@RestController
+public class GitController{
+     @GetMapping("/hemant")
+     public String sayHello(){
+          return "Hello! GitHub People, I'm Hemant Dwivedi";
+     }
+}
 ```
 
 
