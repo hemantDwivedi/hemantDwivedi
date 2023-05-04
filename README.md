@@ -11,16 +11,8 @@
 
 😄 Pronouns He/Him
 
-```JAVA
-@RestController
-public class GitController{
-     @GetMapping("/hemant")
-     public String sayHello(){
-          return "Hello! GitHub People, I'm Hemant Dwivedi";
-     }
-}
-```
-
-
 ## 🛠 Skills
 [![My Skills](https://skillicons.dev/icons?i=java,git,bash,mysql,postgres,postman,maven,html,bootstrap,idea,vscode,vim,tailwind,spring,powershell&perline=15)](https://skillicons.dev)
+
+<img src="https://github-readme-stats.vercel.app/api?username=hemantDwivedi&show_icons=true&theme=dark"/>
+
