@@ -12,7 +12,5 @@
 😄 Pronouns He/Him
 
 ## 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=java,git,bash,mysql,postgres,postman,maven,html,bootstrap,idea,vscode,vim,tailwind,spring,powershell&perline=15)](https://skillicons.dev)
-
-<img src="https://github-readme-stats.vercel.app/api?username=hemantDwivedi&show_icons=true&theme=dark"/>
+[![My Skills](https://skillicons.dev/icons?i=java,docker,react,git,bash,mysql,postgres,postman,maven,html,bootstrap,idea,vscode,vim,tailwind,spring,powershell&perline=8)](https://skillicons.dev)
 
