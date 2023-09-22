@@ -1,4 +1,3 @@
-
 # Hi, I'm Hemant! 👋
 
 
@@ -11,6 +10,7 @@
 
 😄 Pronouns He/Him
 
-## 🛠 Skills
+## 🛠 Technical Skills
 [![My Skills](https://skillicons.dev/icons?i=java,docker,react,git,bash,mysql,postgres,postman,maven,html,bootstrap,idea,vscode,vim,tailwind,spring,powershell&perline=8)](https://skillicons.dev)
 
+[![Hemant's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemantDwivedi&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
