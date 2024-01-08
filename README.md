@@ -1,10 +1,10 @@
-# Hi, I'm Hemant! 👋
+# Hi, I'm Hemant! 👋🤓
 
 
 
-👩‍💻 I'm currently student at __[WCTM](https://www.wctmgurgaon.com/)__
+👩‍💻 An ordinary software engineer
 
-🧠 I'm currently learning Java, Spring Framework, and Databases.
+🧠 I'm currently learning Java, Spring Framework, javascript, cloud techs and Databases.
 
 👯‍♀️ I'm looking to collaborate on Github
 
