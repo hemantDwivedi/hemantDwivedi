@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemantdwivedi&label=Profile%20views&color=0e75b6&style=flat" alt="hemantdwivedi" /> </p>
 
-- 🔭 I’m currently working on [Saas project](https://github.com/hemantDwivedi/hrm-microservices)
+- 🔭 I’m currently working as SDE
 
-- 🌱 I’m currently learning **AI, Spring, AWS, Docker**
+- 🌱 I’m currently learning **AI, Spring, Cloud Technologies**
 
 - 👯 I’m looking to collaborate on **Github**
 
