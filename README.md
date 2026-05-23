@@ -1,19 +1,10 @@
-<h1 align="center">Hi 👋, I'm HEMANT</h1>
-<h3 align="center">A software developer nerd.</h3>
+# 💫 About Me:
+🔭 I’m currently working as SDE<br><br>🌱 I’m currently learning AI, Spring, Cloud Technologies<br><br>👯 I’m looking to collaborate on Github<br><br>📝 I regularly write articles on https://hemantdwivedi.hashnode.dev/<br><br>💬 Ask me about java, spring, docker, aws, AI<br><br>📫 How to reach me hemantdwiwedi@gmail.com
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemantdwivedi&label=Profile%20views&color=0e75b6&style=flat" alt="hemantdwivedi" /> </p>
 
-- 🔭 I’m currently working as SDE
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
-- 🌱 I’m currently learning **AI, Spring, Cloud Technologies**
-
-- 👯 I’m looking to collaborate on **Github**
-
-- 📝 I regularly write articles on [https://hemantdwivedi.hashnode.dev/](https://hemantdwivedi.hashnode.dev/)
-
-- 💬 Ask me about **java, spring, docker, aws, openai**
-
-- 📫 How to reach me **hemantdwiwedi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,15 +15,14 @@
 <a href="https://www.leetcode.com/https://leetcode.com/hemantdwivedi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/hemantdwivedi/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=java,spring,docker,react,git,aws,bash,html,tailwind" />
-  </a>
-</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemantdwivedi&theme=github_dark&show_icons=true&locale=en" alt="hemantdwivedi" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemantdwivedi&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="hemantdwivedi" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=hemantDwivedi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=hemantDwivedi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=hemantDwivedi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hemantDwivedi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemantdwivedi&theme=github_dark" alt="hemantdwivedi" /></p>
+---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemantdwivedi&label=Profile%20views&color=0e75b6&style=flat" alt="hemantdwivedi" /> </p>
